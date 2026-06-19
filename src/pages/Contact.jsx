@@ -192,12 +192,12 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://instagram.com/aqua.adrems"
+                href="https://instagram.com/aqua.adreams"
                 target="_blank"
                 rel="noreferrer"
                 className="bg-gradient-to-r from-pink-500 via-purple-500 to-orange-500 py-4 rounded-xl text-center font-semibold"
               >
-                Follow @aqua.adrems
+                Follow @aqua.adreams
               </a>
 
             </div>

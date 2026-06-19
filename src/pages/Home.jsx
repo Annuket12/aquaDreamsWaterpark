@@ -212,7 +212,7 @@ export default function Home() {
                 Instagram
               </h3>
               <p className="mt-2 text-slate-600">
-                @aqua.adrems
+                @aqua.adreams
               </p>
             </div>
 

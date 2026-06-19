@@ -85,13 +85,13 @@ return ( <footer className="bg-slate-950 text-white">
           </p>
 
           <a
-            href="https://instagram.com/aqua.adrems"
+            href="https://instagram.com/aqua.adreams"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-2 hover:text-cyan-400 transition"
           >
             <FaInstagram className="text-pink-500" />
-            @aqua.adrems
+            @aqua.adreams
           </a>
 
           <p>

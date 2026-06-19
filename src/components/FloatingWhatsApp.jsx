@@ -16,7 +16,7 @@ export default function FloatingWhatsApp() {
 
       {/* Instagram */}
       <a
-        href="https://instagram.com/aqua.adrems"
+        href="https://instagram.com/aqua.adreams"
         target="_blank"
         rel="noreferrer"
         className="bg-pink-500 hover:bg-pink-600 text-white p-4 rounded-full shadow-lg transition"

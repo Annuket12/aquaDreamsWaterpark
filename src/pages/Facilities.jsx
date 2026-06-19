@@ -151,13 +151,13 @@ return ( <div className="pt-28 pb-20 bg-slate-50 min-h-screen">
             </p>
 
             <a
-              href="https://instagram.com/aqua.adrems"
+              href="https://instagram.com/aqua.adreams"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-3 hover:text-cyan-100 transition"
             >
               <FaInstagram />
-              @aqua.adrems
+              @aqua.adremas
             </a>
 
             <p>

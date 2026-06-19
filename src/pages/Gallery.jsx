@@ -93,7 +93,7 @@ export default function Gallery() {
             rel="noreferrer"
             className="bg-white text-cyan-600 px-8 py-3 rounded-full font-bold inline-block hover:scale-105 transition"
           >
-            @aqua.adrems
+            @aqua.adreams
           </a>
 
         </div>
