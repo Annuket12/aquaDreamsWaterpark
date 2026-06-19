@@ -24,7 +24,7 @@ export default function Home() {
 
             <div className="luxury-card p-6 text-center">
               <h2 className="text-3xl md:text-5xl font-black text-cyan-600">
-                10K+
+                2K+
               </h2>
               <p className="text-slate-600 mt-2">
                 Happy Visitors
@@ -33,7 +33,7 @@ export default function Home() {
 
             <div className="luxury-card p-6 text-center">
               <h2 className="text-3xl md:text-5xl font-black text-cyan-600">
-                20+
+                5+
               </h2>
               <p className="text-slate-600 mt-2">
                 Trainers
@@ -42,7 +42,7 @@ export default function Home() {
 
             <div className="luxury-card p-6 text-center">
               <h2 className="text-3xl md:text-5xl font-black text-cyan-600">
-                15+
+                1.5+
               </h2>
               <p className="text-slate-600 mt-2">
                 Years Experience
