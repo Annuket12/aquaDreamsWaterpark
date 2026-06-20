@@ -48,6 +48,14 @@ export default function Hero() {
             >
               Contact Us
             </Link>
+
+            <Link
+              to="/gallery"
+              className="bg-cyan-500 hover:bg-cyan-600 text-white px-8 py-4 rounded-full font-semibold transition"
+            >
+              Aqua Gallery
+            </Link>
+
           </div>
         </div>
       </div>
